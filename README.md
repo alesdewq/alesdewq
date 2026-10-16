@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Aleksey Andreychuk — System Administrator · Infrastructure Engineer" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+    <img src="assets/header-light.svg" alt="Aleksey Andreychuk - System Administrator · Infrastructure Engineer" width="100%">
+  </picture>
 </p>
 
 <p align="center">
@@ -12,7 +15,10 @@
 ## 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,powershell,linux,nginx,ansible&perline=5" alt="Windows, PowerShell, Linux, Nginx, Ansible">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=windows%2Cpowershell%2Clinux%2Cnginx%2Cansible&perline=5&theme=dark">
+    <img src="https://skillicons.dev/icons?i=windows%2Cpowershell%2Clinux%2Cnginx%2Cansible&perline=5&theme=light" alt="Windows, PowerShell, Linux, Nginx, Ansible">
+  </picture>
 </p>
 
 <p align="center">
@@ -44,7 +50,7 @@
     <td width="33%" valign="top">
       <h3>🤖 <a href="https://github.com/alesdewq/projects-and-automation">Projects &amp; Automation</a></h3>
       Personal tools for read-only infrastructure inventory, Active Directory auditing and
-      routine admin automation — each with an honest status.
+      routine admin automation.
     </td>
     <td width="33%" valign="top">
       <h3>🛡️ <a href="https://github.com/alesdewq/cybersecurity-learning">Cybersecurity Learning</a></h3>
@@ -66,6 +72,6 @@
 
 ## 📚 Currently learning
 
-- 🔐 **Information security** — network fundamentals, Linux and Windows security, Active Directory security
-- 🧪 **Penetration testing methodology** — only in my own isolated lab environments
-- ⚙️ **Infrastructure automation** — Ansible and PowerShell
+- 🔐 **Information security** - network fundamentals, Linux and Windows security, Active Directory security
+- 🧪 **Penetration testing methodology** - only in my own isolated lab environments
+- ⚙️ **Infrastructure automation** - Ansible and PowerShell
