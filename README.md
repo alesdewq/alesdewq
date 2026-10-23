@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Hands-on experience running <b>Windows and Linux infrastructure</b>, <b>virtualization</b> and <b>networks</b>.<br>
+  <b>5+ years</b> as a system administrator: <b>Windows and Linux infrastructure</b>, <b>virtualization</b> and <b>networks</b>.<br>
   Growing focus on <b>automation</b> and <b>information security</b>.
 </p>
 
@@ -54,7 +54,7 @@
     </td>
     <td width="33%" valign="top">
       <h3>🛡️ <a href="https://github.com/alesdewq/cybersecurity-learning">Cybersecurity Learning</a></h3>
-      My path towards penetration testing: lab reports from my own isolated lab, notes and a
+      My path towards Red Team: building an isolated lab, lab reports, notes and a
       learning journal.
     </td>
   </tr>
@@ -64,6 +64,7 @@
 
 | Project | Status | What it does |
 |---|---|---|
+| [**NEXORA**](https://github.com/alesdewq/nexora) | 🟢&nbsp;Functional | Read-only Windows 10/11 diagnostics and security audit (C#/.NET 10, WPF), HTML/JSON reports, 220 unit tests |
 | [**VMware Inventory Collector**](https://github.com/alesdewq/projects-and-automation/tree/main/VMware-Inventory-Collector) | 🟢&nbsp;Functional | Read-only inventory of vCenter objects and subnets → JSON / CSV / Markdown |
 | [**AD Audit Toolkit**](https://github.com/alesdewq/projects-and-automation/tree/main/AD-Audit-Toolkit) | 🟡&nbsp;Experimental | Read-only collection of Active Directory structure (OUs, users, groups, computers) → JSON |
 | [**InfraScope**](https://github.com/alesdewq/projects-and-automation/tree/main/InfraScope) | ⚪&nbsp;Planned | Read-only infrastructure inventory with configuration checks |
